@@ -1,0 +1,1 @@
+# myshop-pos-android
